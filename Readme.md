@@ -1,6 +1,6 @@
 # Package git link
 ```bash
-https://github.com/ZapilinEntertainment/ZE.Flags.git
+https://github.com/ZapilinEntertainment/ZE.Flags.git#main
 ```
 
 # Use case
